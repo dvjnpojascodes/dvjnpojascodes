@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvjnpojascodes&label=Profile%20views&color=0e75b6&style=flat" alt="dvjnpojascodes" /> </p>
 
-- 🔭 I’m currently taking internship at **Jaehub IT Consultancy**
+<!-- - 🔭 I’m currently taking internship at **Jaehub IT Consultancy** -->
 
 - 🌱 I’m currently learning **React JS and Entity Framework**
 
